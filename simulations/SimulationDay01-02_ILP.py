@@ -28,3 +28,13 @@ print(n1, "/", n2, "=", r4, " is a ", type(r4))
 print(n1, "//", n2, "=", r5, " is a ", type(r5))
 print(n1, "%", n2, "=", r6, " is a ", type(r6))
 print(n1, "**", n2, "=", r7, " is a ", type(r7))
+
+
+#same literal value sharing memory address for small integers for efficiency
+print()
+num1 = 4
+num2 = num1
+num3 = 26-22
+print(num1, id(num1), sep=" is at ")
+print(num2, id(num2), sep=" is at ")
+print(num3, id(num3), sep=" is at ")
