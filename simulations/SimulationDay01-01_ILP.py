@@ -1,4 +1,6 @@
 # intro
+print("A" + "5")
+
 print("Hello Python3!")
 print("Another print without semi-colon")
 print("Just another print line")

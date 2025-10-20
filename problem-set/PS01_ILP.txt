@@ -1,0 +1,31 @@
+####################################################################################
+########### 			 PERSONAL PROFILE 			 ###########
+####################################################################################
+
+
+Lastname:		 PALMA
+Firstname:		 IKENN LOUIE
+Middlename:		 M
+Date of Birth:		 Feb. 1991
+Address:		 Brgy. Gredu, City of OBANAP
+Skills:		 ['computer skills', 'technical', 'drawing', 'listening']
+
+
+
+I. PARENTS BACKGROUND:
+Father:		 TATAY PALMA
+Mother:		 NANAY PALMA
+
+
+
+II. EDUCATIONAL BACKGROUND:
+
+
+Elementary:		 RIZAL ELEMENTARY SCHOOL
+High School:		 OBANAP NATIONAL HIGH SCHOOL
+Tertiary:		 NORTH COLLEGE INC.
+
+
+
+III. WORK EXPERIENCE:
+1. 		 NORTH COLLEGE INC.
