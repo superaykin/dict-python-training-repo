@@ -19,3 +19,11 @@ def myInfo() :
 
 myInfo()
 
+"""
+comment block
+triple double qoute or triple single qoute
+"""
+
+'''
+another comment block
+'''
