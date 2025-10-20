@@ -25,5 +25,13 @@ triple double qoute or triple single qoute
 """
 
 '''
-another comment block
+another comment block with 3 single qoute
 '''
+
+name = "KEN"
+age = "34"
+
+print (name, age)
+
+print ("My name is " + name + " and i am " + age)
+print ("Heelelo\tWerld\ntest")
