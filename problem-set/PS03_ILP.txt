@@ -1,0 +1,17 @@
+=====	 PAYSLIP 	 =====
+
+=====	 EMPLOYEE INFO 	 =====
+Employee Name:		TEST
+Rendered Hours:		123.0
+Rate per Hour:		123.0
+Gross Salary:		15129.0
+
+=====	 DEDUCTIONS 	 =====
+SSS:		31.0
+PhilHealth:	14.0
+Loans:		12.0
+Tax:		1512.9
+Total:		1569.9
+
+=====	 NET SALARY 	 =====
+Php		13559.1

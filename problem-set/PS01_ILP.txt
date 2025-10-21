@@ -8,7 +8,7 @@ Firstname:		 IKENN LOUIE
 Middlename:		 M
 Date of Birth:		 Feb. 1991
 Address:		 Brgy. Gredu, City of OBANAP
-Skills:		 ['computer skills', 'technical', 'drawing', 'listening']
+Skills:		 ['computer skills', 'technical', 'drawing', 'listening', 'sleeping', 'problem solving']
 
 
 

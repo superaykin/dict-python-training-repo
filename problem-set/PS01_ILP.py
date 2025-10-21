@@ -3,7 +3,7 @@ PS01 - IKENN LOUIE PALMA
 DAY 01
 '''
 
-file=textPrint = open('PS01_ILP.txt', "w")
+textPrint = open('PS01_ILP.txt', "w")
 
 # NAME
 lastName = "PALMA"
