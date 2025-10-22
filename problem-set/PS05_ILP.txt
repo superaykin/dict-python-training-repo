@@ -1,0 +1,8 @@
+
+My favorite objects are motorcycle, laptop, computer, cellphone, and diecast cars. I stored the objects individually using the type <class 'str'>.
+The interest and hobbies are also stored individually using <class 'str'>.
+I also stored them using the <class 'set'> datatype which looks like {'motorcycle', 'cellphone', 'laptop', 'computer', 'diecast cars'} and {'sleeping', 'collecting diecast cars', 'browsing internet'} I think i have purchased the motorcycle around January 01 of year 2023. A recent interest/hobby of mine is collecting diecast cars which started around August of 2025.
+
+
+The paragraph above is composed of 6 sentences.
+
