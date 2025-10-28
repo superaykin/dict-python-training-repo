@@ -1,0 +1,122 @@
+
+
+>> GAME START
+
+    ========== SCORE BOARD ===========
+    Round: 1 		 Winner: GAME BOOOOT
+    Player "kinnnnn" : 0
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 2 		 Winner: GAME BOOOOT
+    Player "kinnnnn" : 0
+    Player "GAME BOOOOT" : 2
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 3 		 Winner: kinnnnn
+    Player "kinnnnn" : 1
+    Player "GAME BOOOOT" : 2
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 4 		 Winner: kinnnnn
+    Player "kinnnnn" : 2
+    Player "GAME BOOOOT" : 2
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 5 		 Winner: GAME BOOOOT
+    Player "kinnnnn" : 2
+    Player "GAME BOOOOT" : 3
+    ==================================
+    
+--- End of rounds. Winner is GAME BOOOOT ----
+<< GAME END
+
+
+>> GAME START
+
+    ========== SCORE BOARD ===========
+    Round: 1 		 Winner: GAME BOOOOT
+    Player "masterrrr" : 0
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 2 		 Winner: DRAW
+    Player "masterrrr" : 0
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 3 		 Winner: masterrrr
+    Player "masterrrr" : 1
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 4 		 Winner: masterrrr
+    Player "masterrrr" : 2
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 5 		 Winner: masterrrr
+    Player "masterrrr" : 3
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+--- End of rounds. Winner is masterrrr ----
+<< GAME END
+
+
+>> GAME START
+
+    ========== SCORE BOARD ===========
+    Round: 1 		 Winner: DRAW
+    Player "kennn" : 0
+    Player "GAME BOOOOT" : 0
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 2 		 Winner: GAME BOOOOT
+    Player "kennn" : 0
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 3 		 Winner: kennn
+    Player "kennn" : 1
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 4 		 Winner: kennn
+    Player "kennn" : 2
+    Player "GAME BOOOOT" : 1
+    ==================================
+    
+
+    ========== SCORE BOARD ===========
+    Round: 5 		 Winner: GAME BOOOOT
+    Player "kennn" : 2
+    Player "GAME BOOOOT" : 2
+    ==================================
+    
+--- End of rounds. Game is Draw!!! ----
+<< GAME END
+
+
