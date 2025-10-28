@@ -2,8 +2,8 @@
 from datetime import datetime
 
 print()
-print("PROBLEM SET [18] - Calculated Errors Application\n")
-
+print("PROBLEM SET [18] - Calculated Errors Application")
+print("== DIVISION ===\n")
 def getInput() :
     while True:
         try:
@@ -22,18 +22,23 @@ def getInput() :
     return [num1, num2]
 
 def divide(a:int, b:int) :
+    logFile = None
     try :
         result = a / b
+        return result
+    
     except ZeroDivisionError :
         print("Unable to divide zero.")
-    finally :
-        errorLogFile = open("PS18_ILP.txt", "w")
+        logFile = open("PS18_ILP.txt", "w")
         logDate = datetime.now()
-        print(F"{logDate} | Division by zero error.", file=errorLogFile)
+        print(F"{logDate} | Division by zero error. Value: [{a}, {b}]", file=logFile)
+
+    finally :
+        logFile.close()
 
 
 numbers = getInput()
 
-# perform arithmetic addition
+# perform arithmetic division
 result = divide(numbers[0], numbers[1])
 print("Qoutient is:", result)
